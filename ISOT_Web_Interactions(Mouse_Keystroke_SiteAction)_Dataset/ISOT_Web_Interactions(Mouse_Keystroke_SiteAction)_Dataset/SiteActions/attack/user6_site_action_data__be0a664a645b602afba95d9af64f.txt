@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user6	log in as illegal user	May  2 2010  6:56PM	be0a664a645b602afba95d9af64f
+user6	add status	May  2 2010  6:57PM	be0a664a645b602afba95d9af64f
+user6	add status comments	May  2 2010  6:58PM	be0a664a645b602afba95d9af64f

@@ -1,0 +1,7 @@
+User	Action	Time	SessionID
+user22	log in as legal user	Apr  9 2010  9:43PM	607963d32c6e3030048d44c5fc25
+user22	add status	Apr  9 2010  9:44PM	607963d32c6e3030048d44c5fc25
+user22	add photo comment	Apr  9 2010  9:45PM	607963d32c6e3030048d44c5fc25
+user22	upload image	Apr  9 2010  9:48PM	607963d32c6e3030048d44c5fc25
+user22	add photo comment	Apr  9 2010  9:49PM	607963d32c6e3030048d44c5fc25
+user22	add photo comment	Apr  9 2010  9:57PM	607963d32c6e3030048d44c5fc25

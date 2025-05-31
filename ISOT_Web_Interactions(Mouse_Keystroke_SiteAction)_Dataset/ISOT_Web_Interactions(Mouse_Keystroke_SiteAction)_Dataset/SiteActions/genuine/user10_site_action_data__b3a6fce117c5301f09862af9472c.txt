@@ -1,0 +1,8 @@
+User	Action	Time	SessionID
+user10	log in as legal user	May  5 2010  6:28PM	b3a6fce117c5301f09862af9472c
+user10	add status comments	May  5 2010  6:29PM	b3a6fce117c5301f09862af9472c
+user10	add status comments	May  5 2010  6:30PM	b3a6fce117c5301f09862af9472c
+user10	add photo comment	May  5 2010  6:30PM	b3a6fce117c5301f09862af9472c
+user10	add status comments	May  5 2010  6:31PM	b3a6fce117c5301f09862af9472c
+user10	add status comments	May  5 2010  6:33PM	b3a6fce117c5301f09862af9472c
+user10	add photo comment	May  5 2010  6:33PM	b3a6fce117c5301f09862af9472c

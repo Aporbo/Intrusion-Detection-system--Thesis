@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user6	log in as legal user	Apr 22 2010  7:16PM	873d4d9f4d98906c50618f5db3c8
+user6	add status	Apr 22 2010  7:17PM	873d4d9f4d98906c50618f5db3c8
+user6	add status comments	Apr 22 2010  7:17PM	873d4d9f4d98906c50618f5db3c8

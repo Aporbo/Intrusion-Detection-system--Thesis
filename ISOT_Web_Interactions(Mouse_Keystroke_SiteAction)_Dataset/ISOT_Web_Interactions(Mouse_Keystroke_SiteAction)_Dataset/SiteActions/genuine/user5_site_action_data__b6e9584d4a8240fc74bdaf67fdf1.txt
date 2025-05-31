@@ -1,0 +1,3 @@
+User	Action	Time	SessionID
+user5	log in as legal user failed	Apr 26 2010 11:43AM	b6e9584d4a8240fc74bdaf67fdf1
+user5	log in as legal user	Apr 26 2010 11:44AM	b6e9584d4a8240fc74bdaf67fdf1

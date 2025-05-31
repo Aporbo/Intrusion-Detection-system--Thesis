@@ -1,0 +1,5 @@
+User	Action	Time	SessionID
+user13	log in as illegal user	Apr 27 2010  8:47PM	2862210121643d94061f35775537
+user13	add status	Apr 27 2010  8:47PM	2862210121643d94061f35775537
+user13	add photo comment	Apr 27 2010  8:48PM	2862210121643d94061f35775537
+user13	add photo comment	Apr 27 2010  8:49PM	2862210121643d94061f35775537

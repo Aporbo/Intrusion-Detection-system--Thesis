@@ -1,0 +1,6 @@
+User	Action	Time	SessionID
+user5	log in as legal user	May 13 2010 10:30AM	2b79245804e600c31e0fea631c8f
+user5	add photo comment	May 13 2010 10:32AM	2b79245804e600c31e0fea631c8f
+user5	add status comments	May 13 2010 10:35AM	2b79245804e600c31e0fea631c8f
+user5	add photo comment	May 13 2010 10:35AM	2b79245804e600c31e0fea631c8f
+user5	add status comments	May 13 2010 10:43AM	2b79245804e600c31e0fea631c8f

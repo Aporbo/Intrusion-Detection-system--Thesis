@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user10	log in as legal user	Apr 19 2010  3:03PM	818714f1a98bf96f87ca373c7c58
+user10	add photo comment	Apr 19 2010  3:06PM	818714f1a98bf96f87ca373c7c58
+user10	add status comments	Apr 19 2010  3:06PM	818714f1a98bf96f87ca373c7c58

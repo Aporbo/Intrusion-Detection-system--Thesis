@@ -1,0 +1,8 @@
+User	Action	Time	SessionID
+user2	log in as legal user	Apr 28 2010 11:04AM	574a6331a9e55b9f70dfa6cc9bb3
+user2	add status	Apr 28 2010 11:04AM	574a6331a9e55b9f70dfa6cc9bb3
+user2	upload image	Apr 28 2010 11:06AM	574a6331a9e55b9f70dfa6cc9bb3
+user2	add status comments	Apr 28 2010 11:07AM	574a6331a9e55b9f70dfa6cc9bb3
+user2	add status comments	Apr 28 2010 11:08AM	574a6331a9e55b9f70dfa6cc9bb3
+user2	add status comments	Apr 28 2010 11:10AM	574a6331a9e55b9f70dfa6cc9bb3
+user2	add status	Apr 28 2010 11:10AM	574a6331a9e55b9f70dfa6cc9bb3

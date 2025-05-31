@@ -1,0 +1,3 @@
+User	Action	Time	SessionID
+user16	log in as legal user	Apr 29 2010  4:00PM	bcc2faa9590190783bd9e28a3a7f
+user16	say agree on the agreement	Apr 29 2010  4:01PM	bcc2faa9590190783bd9e28a3a7f

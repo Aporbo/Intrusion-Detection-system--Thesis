@@ -1,0 +1,5 @@
+User	Action	Time	SessionID
+user20	log in as illegal user	Apr 27 2010  9:01AM	0000770cd0a5f050844fa054cab5
+user20	add photo comment	Apr 27 2010  9:02AM	0000770cd0a5f050844fa054cab5
+user20	add photo comment	Apr 27 2010  9:03AM	0000770cd0a5f050844fa054cab5
+user20	add status comments	Apr 27 2010  9:04AM	0000770cd0a5f050844fa054cab5

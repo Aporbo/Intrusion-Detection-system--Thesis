@@ -1,0 +1,9 @@
+User	Action	Time	SessionID
+user22	log in as legal user	Apr 20 2010  6:12PM	dec90e810bc528d1d42f4e614eae
+user22	add status	Apr 20 2010  6:13PM	dec90e810bc528d1d42f4e614eae
+user22	upload image	Apr 20 2010  6:18PM	dec90e810bc528d1d42f4e614eae
+user22	upload image	Apr 20 2010  6:18PM	dec90e810bc528d1d42f4e614eae
+user22	upload image	Apr 20 2010  6:19PM	dec90e810bc528d1d42f4e614eae
+user22	add photo comment	Apr 20 2010  6:19PM	dec90e810bc528d1d42f4e614eae
+user22	add photo comment	Apr 20 2010  6:20PM	dec90e810bc528d1d42f4e614eae
+user22	add photo comment	Apr 20 2010  6:21PM	dec90e810bc528d1d42f4e614eae

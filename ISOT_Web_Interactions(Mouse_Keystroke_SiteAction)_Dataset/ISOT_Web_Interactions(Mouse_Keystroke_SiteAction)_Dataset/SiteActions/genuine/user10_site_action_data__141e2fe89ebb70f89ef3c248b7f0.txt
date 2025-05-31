@@ -1,0 +1,7 @@
+User	Action	Time	SessionID
+user10	log in as legal user	Mar 24 2010 10:39AM	141e2fe89ebb70f89ef3c248b7f0
+user10	add status	Mar 24 2010 10:40AM	141e2fe89ebb70f89ef3c248b7f0
+user10	add status	Mar 24 2010 10:40AM	141e2fe89ebb70f89ef3c248b7f0
+user10	add status	Mar 24 2010 10:40AM	141e2fe89ebb70f89ef3c248b7f0
+user10	add photo comment	Mar 24 2010 10:41AM	141e2fe89ebb70f89ef3c248b7f0
+user10	add photo comment	Mar 24 2010 10:42AM	141e2fe89ebb70f89ef3c248b7f0

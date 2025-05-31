@@ -1,0 +1,8 @@
+User	Action	Time	SessionID
+user7	log in as legal user	Apr 13 2010  3:14PM	93bf9cc5b0a300ae5745bddcc2c8
+user7	add status	Apr 13 2010  3:15PM	93bf9cc5b0a300ae5745bddcc2c8
+user7	upload image	Apr 13 2010  3:17PM	93bf9cc5b0a300ae5745bddcc2c8
+user7	add photo comment	Apr 13 2010  3:19PM	93bf9cc5b0a300ae5745bddcc2c8
+user7	add photo comment	Apr 13 2010  3:21PM	93bf9cc5b0a300ae5745bddcc2c8
+user7	add photo comment	Apr 13 2010  3:23PM	93bf9cc5b0a300ae5745bddcc2c8
+user7	add photo comment	Apr 13 2010  3:24PM	93bf9cc5b0a300ae5745bddcc2c8

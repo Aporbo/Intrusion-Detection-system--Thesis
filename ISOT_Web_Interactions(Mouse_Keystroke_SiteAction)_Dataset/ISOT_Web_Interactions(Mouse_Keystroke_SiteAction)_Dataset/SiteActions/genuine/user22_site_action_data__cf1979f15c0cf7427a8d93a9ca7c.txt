@@ -1,0 +1,10 @@
+User	Action	Time	SessionID
+user22	log in as legal user	Apr 14 2010  8:30AM	cf1979f15c0cf7427a8d93a9ca7c
+user22	add status	Apr 14 2010  8:31AM	cf1979f15c0cf7427a8d93a9ca7c
+user22	upload image	Apr 14 2010  8:37AM	cf1979f15c0cf7427a8d93a9ca7c
+user22	add photo comment	Apr 14 2010  8:38AM	cf1979f15c0cf7427a8d93a9ca7c
+user22	upload image	Apr 14 2010  8:40AM	cf1979f15c0cf7427a8d93a9ca7c
+user22	add photo comment	Apr 14 2010  8:40AM	cf1979f15c0cf7427a8d93a9ca7c
+user22	add photo comment	Apr 14 2010  8:44AM	cf1979f15c0cf7427a8d93a9ca7c
+user22	add photo comment	Apr 14 2010  8:45AM	cf1979f15c0cf7427a8d93a9ca7c
+user22	add photo comment	Apr 14 2010  8:53AM	cf1979f15c0cf7427a8d93a9ca7c

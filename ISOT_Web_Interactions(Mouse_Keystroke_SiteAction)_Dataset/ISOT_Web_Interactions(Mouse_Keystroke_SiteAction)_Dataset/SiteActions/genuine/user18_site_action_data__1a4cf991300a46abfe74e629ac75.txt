@@ -1,0 +1,6 @@
+User	Action	Time	SessionID
+user18	log in as legal user	Apr 21 2010 11:33AM	1a4cf991300a46abfe74e629ac75
+user18	upload image	Apr 21 2010 11:34AM	1a4cf991300a46abfe74e629ac75
+user18	add photo comment	Apr 21 2010 11:36AM	1a4cf991300a46abfe74e629ac75
+user18	add photo comment	Apr 21 2010 11:36AM	1a4cf991300a46abfe74e629ac75
+user18	add status comments	Apr 21 2010 11:38AM	1a4cf991300a46abfe74e629ac75

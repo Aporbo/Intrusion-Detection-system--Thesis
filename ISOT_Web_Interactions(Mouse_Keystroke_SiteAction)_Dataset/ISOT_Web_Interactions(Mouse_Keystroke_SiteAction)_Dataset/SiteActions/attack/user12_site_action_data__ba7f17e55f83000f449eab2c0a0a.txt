@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user12	log in as illegal user	Apr 26 2010 12:46PM	ba7f17e55f83000f449eab2c0a0a
+user12	add status	Apr 26 2010 12:46PM	ba7f17e55f83000f449eab2c0a0a
+user12	upload image	Apr 26 2010 12:47PM	ba7f17e55f83000f449eab2c0a0a

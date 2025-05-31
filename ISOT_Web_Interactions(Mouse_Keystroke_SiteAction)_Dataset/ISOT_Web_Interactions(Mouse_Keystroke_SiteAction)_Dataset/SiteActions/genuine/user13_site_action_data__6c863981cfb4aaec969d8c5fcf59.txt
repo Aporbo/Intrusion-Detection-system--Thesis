@@ -1,0 +1,7 @@
+User	Action	Time	SessionID
+user13	log in as legal user	Apr  6 2010 10:42PM	6c863981cfb4aaec969d8c5fcf59
+user13	say agree on the agreement	Apr  6 2010 10:42PM	6c863981cfb4aaec969d8c5fcf59
+user13	add status	Apr  6 2010 10:42PM	6c863981cfb4aaec969d8c5fcf59
+user13	upload image	Apr  6 2010 10:43PM	6c863981cfb4aaec969d8c5fcf59
+user13	add photo comment	Apr  6 2010 10:45PM	6c863981cfb4aaec969d8c5fcf59
+user13	upload image	Apr  6 2010 10:50PM	6c863981cfb4aaec969d8c5fcf59

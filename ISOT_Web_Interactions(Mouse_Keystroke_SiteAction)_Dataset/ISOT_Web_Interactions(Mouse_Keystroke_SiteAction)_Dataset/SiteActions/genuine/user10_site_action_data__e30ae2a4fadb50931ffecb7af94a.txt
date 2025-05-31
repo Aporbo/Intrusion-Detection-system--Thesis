@@ -1,0 +1,3 @@
+User	Action	Time	SessionID
+user10	log in as legal user	May  9 2010 10:51AM	e30ae2a4fadb50931ffecb7af94a
+user10	add status comments	May  9 2010 10:52AM	e30ae2a4fadb50931ffecb7af94a

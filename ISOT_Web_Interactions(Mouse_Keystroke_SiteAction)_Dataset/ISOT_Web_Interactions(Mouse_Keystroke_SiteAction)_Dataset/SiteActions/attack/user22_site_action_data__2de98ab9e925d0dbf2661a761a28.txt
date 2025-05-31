@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user22	log in as illegal user	May  4 2010  3:31AM	2de98ab9e925d0dbf2661a761a28
+user22	upload image	May  4 2010  3:31AM	2de98ab9e925d0dbf2661a761a28
+user22	add status comments	May  4 2010  3:32AM	2de98ab9e925d0dbf2661a761a28

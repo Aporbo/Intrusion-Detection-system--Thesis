@@ -1,0 +1,5 @@
+User	Action	Time	SessionID
+user10	log in as legal user	Apr 29 2010 10:48PM	d4293b77486e807ec50ae00eaaab
+user10	add status comments	Apr 29 2010 10:50PM	d4293b77486e807ec50ae00eaaab
+user10	add status comments	Apr 29 2010 10:52PM	d4293b77486e807ec50ae00eaaab
+user10	add status	Apr 29 2010 10:54PM	d4293b77486e807ec50ae00eaaab

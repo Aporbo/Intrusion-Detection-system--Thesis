@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user5	log in as legal user	Apr 28 2010  8:28AM	507f56e1ccefbda82d07a70b2c68
+user5	add status	Apr 28 2010  8:28AM	507f56e1ccefbda82d07a70b2c68
+user5	add photo comment	Apr 28 2010  8:36AM	507f56e1ccefbda82d07a70b2c68

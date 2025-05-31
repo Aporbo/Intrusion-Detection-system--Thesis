@@ -1,0 +1,9 @@
+User	Action	Time	SessionID
+user3	log in as legal user	Apr  8 2010 10:40AM	e7fe0aa86c80d0a5c2ddfe1c1099
+user3	say agree on the agreement	Apr  8 2010 10:40AM	e7fe0aa86c80d0a5c2ddfe1c1099
+user3	add status	Apr  8 2010 10:40AM	e7fe0aa86c80d0a5c2ddfe1c1099
+user3	add status	Apr  8 2010 10:41AM	e7fe0aa86c80d0a5c2ddfe1c1099
+user3	add status	Apr  8 2010 10:41AM	e7fe0aa86c80d0a5c2ddfe1c1099
+user3	upload image	Apr  8 2010 10:42AM	e7fe0aa86c80d0a5c2ddfe1c1099
+user3	add status	Apr  8 2010 10:44AM	e7fe0aa86c80d0a5c2ddfe1c1099
+user3	add status	Apr  8 2010 10:46AM	e7fe0aa86c80d0a5c2ddfe1c1099

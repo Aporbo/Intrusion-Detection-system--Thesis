@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user22	log in as legal user	Apr 11 2010  5:53PM	f801c4debff0501d29925ae6ddf4
+user22	add photo comment	Apr 11 2010  5:55PM	f801c4debff0501d29925ae6ddf4
+user22	add photo comment	Apr 11 2010  6:03PM	f801c4debff0501d29925ae6ddf4

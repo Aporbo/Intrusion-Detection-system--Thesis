@@ -1,0 +1,7 @@
+User	Action	Time	SessionID
+user20	log in as illegal user	Apr 27 2010  7:40AM	fb5b23fb392590d09932b0b92acf
+user20	add status	Apr 27 2010  7:40AM	fb5b23fb392590d09932b0b92acf
+user20	add photo comment	Apr 27 2010  7:41AM	fb5b23fb392590d09932b0b92acf
+user20	add photo comment	Apr 27 2010  7:42AM	fb5b23fb392590d09932b0b92acf
+user20	add photo comment	Apr 27 2010  7:43AM	fb5b23fb392590d09932b0b92acf
+user20	add photo comment	Apr 27 2010  7:43AM	fb5b23fb392590d09932b0b92acf

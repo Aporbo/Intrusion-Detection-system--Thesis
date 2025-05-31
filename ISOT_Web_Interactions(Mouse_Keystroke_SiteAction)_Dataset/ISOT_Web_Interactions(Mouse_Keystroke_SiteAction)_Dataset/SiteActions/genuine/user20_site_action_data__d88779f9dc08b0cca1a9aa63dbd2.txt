@@ -1,0 +1,6 @@
+User	Action	Time	SessionID
+user20	log in as legal user	Apr 14 2010 11:15AM	d88779f9dc08b0cca1a9aa63dbd2
+user20	add status	Apr 14 2010 11:16AM	d88779f9dc08b0cca1a9aa63dbd2
+user20	upload image	Apr 14 2010 11:17AM	d88779f9dc08b0cca1a9aa63dbd2
+user20	add photo comment	Apr 14 2010 11:17AM	d88779f9dc08b0cca1a9aa63dbd2
+user20	add status comments	Apr 14 2010 11:18AM	d88779f9dc08b0cca1a9aa63dbd2

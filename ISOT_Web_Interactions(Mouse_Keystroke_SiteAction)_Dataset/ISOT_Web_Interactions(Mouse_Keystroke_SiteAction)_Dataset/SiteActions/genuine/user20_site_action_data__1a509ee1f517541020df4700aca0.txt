@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user20	log in as legal user	Apr 21 2010 11:33AM	1a509ee1f517541020df4700aca0
+user20	add status	Apr 21 2010 11:33AM	1a509ee1f517541020df4700aca0
+user20	add status comments	Apr 21 2010 11:36AM	1a509ee1f517541020df4700aca0

@@ -1,0 +1,9 @@
+User	Action	Time	SessionID
+user10	log in as legal user	Apr 22 2010  8:27PM	8b13d2d16da33124f3c1a2929ba1
+user10	add status	Apr 22 2010  8:28PM	8b13d2d16da33124f3c1a2929ba1
+user10	add status comments	Apr 22 2010  8:30PM	8b13d2d16da33124f3c1a2929ba1
+user10	add status comments	Apr 22 2010  8:30PM	8b13d2d16da33124f3c1a2929ba1
+user10	add photo comment	Apr 22 2010  8:31PM	8b13d2d16da33124f3c1a2929ba1
+user10	add status comments	Apr 22 2010  8:32PM	8b13d2d16da33124f3c1a2929ba1
+user10	add photo comment	Apr 22 2010  8:35PM	8b13d2d16da33124f3c1a2929ba1
+user10	add photo comment	Apr 22 2010  8:36PM	8b13d2d16da33124f3c1a2929ba1

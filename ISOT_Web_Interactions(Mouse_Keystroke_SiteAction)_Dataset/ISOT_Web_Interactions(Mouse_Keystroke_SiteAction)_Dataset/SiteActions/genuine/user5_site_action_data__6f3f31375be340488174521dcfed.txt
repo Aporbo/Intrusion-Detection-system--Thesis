@@ -1,0 +1,3 @@
+User	Action	Time	SessionID
+user5	log in as legal user	Apr 22 2010 12:18PM	6f3f31375be340488174521dcfed
+user5	upload image	Apr 22 2010 12:19PM	6f3f31375be340488174521dcfed

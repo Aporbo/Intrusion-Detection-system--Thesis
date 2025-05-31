@@ -1,0 +1,3 @@
+User	Action	Time	SessionID
+user12	log in as legal user	Mar 25 2010  8:29PM	883ce9bb072090a6a5fbb20ca275
+user12	add photo comment	Mar 25 2010  8:32PM	883ce9bb072090a6a5fbb20ca275

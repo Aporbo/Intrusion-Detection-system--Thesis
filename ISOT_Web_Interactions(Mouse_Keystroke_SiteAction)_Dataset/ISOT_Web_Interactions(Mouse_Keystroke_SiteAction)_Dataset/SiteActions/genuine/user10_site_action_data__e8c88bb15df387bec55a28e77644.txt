@@ -1,0 +1,7 @@
+User	Action	Time	SessionID
+user10	log in as legal user	Apr 23 2010 11:41PM	e8c88bb15df387bec55a28e77644
+user10	upload image	Apr 23 2010 11:42PM	e8c88bb15df387bec55a28e77644
+user10	add photo comment	Apr 23 2010 11:42PM	e8c88bb15df387bec55a28e77644
+user10	add status comments	Apr 23 2010 11:43PM	e8c88bb15df387bec55a28e77644
+user10	add status comments	Apr 23 2010 11:44PM	e8c88bb15df387bec55a28e77644
+user10	add status comments	Apr 23 2010 11:44PM	e8c88bb15df387bec55a28e77644

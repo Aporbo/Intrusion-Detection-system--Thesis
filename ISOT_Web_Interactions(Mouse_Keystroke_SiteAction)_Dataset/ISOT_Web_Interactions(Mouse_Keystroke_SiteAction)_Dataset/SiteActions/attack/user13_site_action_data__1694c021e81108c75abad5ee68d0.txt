@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user13	log in as illegal user	Apr 27 2010  3:35PM	1694c021e81108c75abad5ee68d0
+user13	add status	Apr 27 2010  3:36PM	1694c021e81108c75abad5ee68d0
+user13	add status	Apr 27 2010  3:37PM	1694c021e81108c75abad5ee68d0

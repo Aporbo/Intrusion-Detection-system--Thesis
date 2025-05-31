@@ -1,0 +1,5 @@
+User	Action	Time	SessionID
+user8	log in as illegal user	Apr 27 2010  9:10AM	0086b89177f0344d92293b384533
+user8	add photo comment	Apr 27 2010  9:11AM	0086b89177f0344d92293b384533
+user8	add status comments	Apr 27 2010  9:13AM	0086b89177f0344d92293b384533
+user8	add status comments	Apr 27 2010  9:14AM	0086b89177f0344d92293b384533

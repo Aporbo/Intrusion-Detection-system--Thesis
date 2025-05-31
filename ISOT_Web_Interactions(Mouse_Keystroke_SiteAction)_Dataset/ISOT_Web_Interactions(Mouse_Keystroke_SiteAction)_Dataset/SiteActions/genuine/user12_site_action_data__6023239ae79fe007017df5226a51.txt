@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user12	log in as legal user	Apr  9 2010  9:38PM	6023239ae79fe007017df5226a51
+user12	upload image	Apr  9 2010  9:40PM	6023239ae79fe007017df5226a51
+user12	add photo comment	Apr  9 2010  9:42PM	6023239ae79fe007017df5226a51

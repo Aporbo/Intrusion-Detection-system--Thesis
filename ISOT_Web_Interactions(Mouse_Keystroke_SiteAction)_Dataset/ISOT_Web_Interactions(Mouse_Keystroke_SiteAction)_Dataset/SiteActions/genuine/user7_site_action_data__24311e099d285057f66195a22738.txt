@@ -1,0 +1,12 @@
+User	Action	Time	SessionID
+user7	log in as legal user	Apr 21 2010  2:25PM	24311e099d285057f66195a22738
+user7	add status	Apr 21 2010  2:26PM	24311e099d285057f66195a22738
+user7	add photo comment	Apr 21 2010  2:27PM	24311e099d285057f66195a22738
+user7	add photo comment	Apr 21 2010  2:27PM	24311e099d285057f66195a22738
+user7	add photo comment	Apr 21 2010  2:28PM	24311e099d285057f66195a22738
+user7	upload image	Apr 21 2010  2:30PM	24311e099d285057f66195a22738
+user7	add photo comment	Apr 21 2010  2:33PM	24311e099d285057f66195a22738
+user7	add photo comment	Apr 21 2010  2:34PM	24311e099d285057f66195a22738
+user7	add photo comment	Apr 21 2010  2:35PM	24311e099d285057f66195a22738
+user7	add photo comment	Apr 21 2010  2:36PM	24311e099d285057f66195a22738
+user7	add status comments	Apr 21 2010  2:39PM	24311e099d285057f66195a22738

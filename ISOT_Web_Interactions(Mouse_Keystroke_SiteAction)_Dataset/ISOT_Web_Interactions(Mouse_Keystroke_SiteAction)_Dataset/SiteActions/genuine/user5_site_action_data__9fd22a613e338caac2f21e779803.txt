@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user5	log in as legal user	May  5 2010 12:42PM	9fd22a613e338caac2f21e779803
+user5	add status comments	May  5 2010 12:51PM	9fd22a613e338caac2f21e779803
+user5	add status comments	May  5 2010 12:56PM	9fd22a613e338caac2f21e779803

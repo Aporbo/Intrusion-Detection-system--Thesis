@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user4	log in as legal user	Apr 14 2010 12:33PM	dcf37f51b8208a9ea6327753adae
+user4	add status comments	Apr 14 2010 12:38PM	dcf37f51b8208a9ea6327753adae
+user4	add status	Apr 14 2010 12:40PM	dcf37f51b8208a9ea6327753adae

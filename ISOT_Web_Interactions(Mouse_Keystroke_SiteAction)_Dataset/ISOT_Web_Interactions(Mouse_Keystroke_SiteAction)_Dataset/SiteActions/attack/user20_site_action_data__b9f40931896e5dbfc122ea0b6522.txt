@@ -1,0 +1,3 @@
+User	Action	Time	SessionID
+user20	log in as illegal user	Apr 26 2010 12:38PM	b9f40931896e5dbfc122ea0b6522
+user20	upload image	Apr 26 2010 12:40PM	b9f40931896e5dbfc122ea0b6522

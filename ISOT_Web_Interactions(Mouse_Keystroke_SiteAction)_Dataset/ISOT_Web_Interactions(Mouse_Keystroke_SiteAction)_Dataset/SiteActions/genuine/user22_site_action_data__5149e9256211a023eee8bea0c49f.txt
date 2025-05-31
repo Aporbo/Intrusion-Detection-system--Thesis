@@ -1,0 +1,11 @@
+User	Action	Time	SessionID
+user22	log in as legal user failed	Apr 12 2010  7:52PM	5149e9256211a023eee8bea0c49f
+user22	log in as legal user	Apr 12 2010  7:52PM	5149e9256211a023eee8bea0c49f
+user22	add status	Apr 12 2010  7:52PM	5149e9256211a023eee8bea0c49f
+user22	add photo comment	Apr 12 2010  7:53PM	5149e9256211a023eee8bea0c49f
+user22	add photo comment	Apr 12 2010  7:54PM	5149e9256211a023eee8bea0c49f
+user22	upload image	Apr 12 2010  7:59PM	5149e9256211a023eee8bea0c49f
+user22	add photo comment	Apr 12 2010  7:59PM	5149e9256211a023eee8bea0c49f
+user22	add status comments	Apr 12 2010  8:00PM	5149e9256211a023eee8bea0c49f
+user22	add photo comment	Apr 12 2010  8:01PM	5149e9256211a023eee8bea0c49f
+user22	add status comments	Apr 12 2010  8:07PM	5149e9256211a023eee8bea0c49f

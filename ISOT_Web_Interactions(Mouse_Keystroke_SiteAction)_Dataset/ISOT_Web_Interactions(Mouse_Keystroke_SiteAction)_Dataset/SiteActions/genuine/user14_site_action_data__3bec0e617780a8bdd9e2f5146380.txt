@@ -1,0 +1,5 @@
+User	Action	Time	SessionID
+user14	log in as legal user	Apr 12 2010  1:39PM	3bec0e617780a8bdd9e2f5146380
+user14	say agree on the agreement	Apr 12 2010  1:39PM	3bec0e617780a8bdd9e2f5146380
+user14	add status	Apr 12 2010  1:39PM	3bec0e617780a8bdd9e2f5146380
+user14	add status comments	Apr 12 2010  1:43PM	3bec0e617780a8bdd9e2f5146380

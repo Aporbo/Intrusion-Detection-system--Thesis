@@ -1,0 +1,3 @@
+User	Action	Time	SessionID
+user9	log in as legal user	Apr 25 2010  3:39PM	71fb3c8653ba60eea629a510b183
+user9	add status	Apr 25 2010  3:40PM	71fb3c8653ba60eea629a510b183

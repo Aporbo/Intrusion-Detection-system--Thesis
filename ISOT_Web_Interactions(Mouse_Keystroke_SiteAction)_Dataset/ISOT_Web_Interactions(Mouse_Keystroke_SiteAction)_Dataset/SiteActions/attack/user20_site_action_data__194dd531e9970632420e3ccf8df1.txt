@@ -1,0 +1,13 @@
+User	Action	Time	SessionID
+user20	log in as illegal user	Apr 27 2010  4:23PM	194dd531e9970632420e3ccf8df1
+user20	add status	Apr 27 2010  4:24PM	194dd531e9970632420e3ccf8df1
+user20	add photo comment	Apr 27 2010  4:28PM	194dd531e9970632420e3ccf8df1
+user20	add photo comment	Apr 27 2010  4:30PM	194dd531e9970632420e3ccf8df1
+user20	add photo comment	Apr 27 2010  4:31PM	194dd531e9970632420e3ccf8df1
+user20	add photo comment	Apr 27 2010  4:32PM	194dd531e9970632420e3ccf8df1
+user20	add photo comment	Apr 27 2010  4:34PM	194dd531e9970632420e3ccf8df1
+user20	add photo comment	Apr 27 2010  4:37PM	194dd531e9970632420e3ccf8df1
+user20	add photo comment	Apr 27 2010  4:38PM	194dd531e9970632420e3ccf8df1
+user20	add photo comment	Apr 27 2010  4:43PM	194dd531e9970632420e3ccf8df1
+user20	add photo comment	Apr 27 2010  4:44PM	194dd531e9970632420e3ccf8df1
+user20	add photo comment	Apr 27 2010  4:46PM	194dd531e9970632420e3ccf8df1

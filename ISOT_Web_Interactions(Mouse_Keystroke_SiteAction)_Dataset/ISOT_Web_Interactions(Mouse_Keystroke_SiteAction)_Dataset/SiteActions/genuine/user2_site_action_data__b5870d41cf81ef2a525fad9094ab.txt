@@ -1,0 +1,11 @@
+User	Action	Time	SessionID
+user2	log in as legal user	Apr 26 2010 11:19AM	b5870d41cf81ef2a525fad9094ab
+user2	add status	Apr 26 2010 11:20AM	b5870d41cf81ef2a525fad9094ab
+user2	add photo comment	Apr 26 2010 11:21AM	b5870d41cf81ef2a525fad9094ab
+user2	upload image	Apr 26 2010 11:23AM	b5870d41cf81ef2a525fad9094ab
+user2	add status comments	Apr 26 2010 11:26AM	b5870d41cf81ef2a525fad9094ab
+user2	add status comments	Apr 26 2010 11:27AM	b5870d41cf81ef2a525fad9094ab
+user2	add status comments	Apr 26 2010 11:28AM	b5870d41cf81ef2a525fad9094ab
+user2	add status	Apr 26 2010 11:29AM	b5870d41cf81ef2a525fad9094ab
+user2	upload image	Apr 26 2010 11:31AM	b5870d41cf81ef2a525fad9094ab
+user2	add photo comment	Apr 26 2010 11:31AM	b5870d41cf81ef2a525fad9094ab

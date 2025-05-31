@@ -1,0 +1,10 @@
+User	Action	Time	SessionID
+user22	log in as legal user	Apr 17 2010 11:56AM	d208c5f16b4c2df5cb9d1bc1188b
+user22	add status	Apr 17 2010 11:56AM	d208c5f16b4c2df5cb9d1bc1188b
+user22	add photo comment	Apr 17 2010 11:57AM	d208c5f16b4c2df5cb9d1bc1188b
+user22	upload image	Apr 17 2010 12:00PM	d208c5f16b4c2df5cb9d1bc1188b
+user22	add photo comment	Apr 17 2010 12:01PM	d208c5f16b4c2df5cb9d1bc1188b
+user22	upload image	Apr 17 2010 12:02PM	d208c5f16b4c2df5cb9d1bc1188b
+user22	add photo comment	Apr 17 2010 12:02PM	d208c5f16b4c2df5cb9d1bc1188b
+user22	add photo comment	Apr 17 2010 12:03PM	d208c5f16b4c2df5cb9d1bc1188b
+user22	add status comments	Apr 17 2010 12:07PM	d208c5f16b4c2df5cb9d1bc1188b

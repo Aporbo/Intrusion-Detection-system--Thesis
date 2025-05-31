@@ -1,0 +1,10 @@
+User	Action	Time	SessionID
+user2	log in as legal user	Apr 30 2010  9:31AM	f6faad6142cf25df4ea7f044412e
+user2	add status	Apr 30 2010  9:32AM	f6faad6142cf25df4ea7f044412e
+user2	upload image	Apr 30 2010  9:35AM	f6faad6142cf25df4ea7f044412e
+user2	add status comments	Apr 30 2010  9:36AM	f6faad6142cf25df4ea7f044412e
+user2	add status comments	Apr 30 2010  9:36AM	f6faad6142cf25df4ea7f044412e
+user2	add status comments	Apr 30 2010  9:37AM	f6faad6142cf25df4ea7f044412e
+user2	add photo comment	Apr 30 2010  9:37AM	f6faad6142cf25df4ea7f044412e
+user2	add photo comment	Apr 30 2010  9:38AM	f6faad6142cf25df4ea7f044412e
+user2	add status	Apr 30 2010  9:41AM	f6faad6142cf25df4ea7f044412e

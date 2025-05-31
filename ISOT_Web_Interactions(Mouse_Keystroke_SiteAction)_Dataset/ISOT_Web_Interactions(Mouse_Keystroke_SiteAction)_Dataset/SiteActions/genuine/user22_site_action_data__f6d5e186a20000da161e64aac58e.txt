@@ -1,0 +1,9 @@
+User	Action	Time	SessionID
+user22	log in as legal user failed	Apr 11 2010  5:31PM	f6d5e186a20000da161e64aac58e
+user22	log in as legal user	Apr 11 2010  5:31PM	f6d5e186a20000da161e64aac58e
+user22	add status	Apr 11 2010  5:32PM	f6d5e186a20000da161e64aac58e
+user22	upload image	Apr 11 2010  5:39PM	f6d5e186a20000da161e64aac58e
+user22	add photo comment	Apr 11 2010  5:41PM	f6d5e186a20000da161e64aac58e
+user22	upload image	Apr 11 2010  5:46PM	f6d5e186a20000da161e64aac58e
+user22	add photo comment	Apr 11 2010  5:47PM	f6d5e186a20000da161e64aac58e
+user22	add photo comment	Apr 11 2010  5:47PM	f6d5e186a20000da161e64aac58e

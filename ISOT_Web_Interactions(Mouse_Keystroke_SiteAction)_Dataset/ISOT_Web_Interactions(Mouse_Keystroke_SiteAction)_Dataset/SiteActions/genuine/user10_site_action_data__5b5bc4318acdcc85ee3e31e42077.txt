@@ -1,0 +1,11 @@
+User	Action	Time	SessionID
+user10	log in as legal user	Apr  9 2010  8:14PM	5b5bc4318acdcc85ee3e31e42077
+user10	add photo comment	Apr  9 2010  8:15PM	5b5bc4318acdcc85ee3e31e42077
+user10	add photo comment	Apr  9 2010  8:17PM	5b5bc4318acdcc85ee3e31e42077
+user10	add photo comment	Apr  9 2010  8:18PM	5b5bc4318acdcc85ee3e31e42077
+user10	add photo comment	Apr  9 2010  8:23PM	5b5bc4318acdcc85ee3e31e42077
+user10	add photo comment	Apr  9 2010  8:25PM	5b5bc4318acdcc85ee3e31e42077
+user10	add photo comment	Apr  9 2010  8:26PM	5b5bc4318acdcc85ee3e31e42077
+user10	add photo comment	Apr  9 2010  8:27PM	5b5bc4318acdcc85ee3e31e42077
+user10	add photo comment	Apr  9 2010  8:28PM	5b5bc4318acdcc85ee3e31e42077
+user10	add photo comment	Apr  9 2010  8:29PM	5b5bc4318acdcc85ee3e31e42077

@@ -1,0 +1,5 @@
+User	Action	Time	SessionID
+user24	log in as illegal user	May  2 2010  6:44PM	bd58608d5ad2e0688b293de9f597
+user24	add status	May  2 2010  6:45PM	bd58608d5ad2e0688b293de9f597
+user24	add photo comment	May  2 2010  6:46PM	bd58608d5ad2e0688b293de9f597
+user24	add photo comment	May  2 2010  6:46PM	bd58608d5ad2e0688b293de9f597

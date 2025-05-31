@@ -1,0 +1,7 @@
+User	Action	Time	SessionID
+user18	log in as legal user	Apr 22 2010  8:28AM	6226fcf4aeb11009641f8dadac77
+user18	add photo comment	Apr 22 2010  8:30AM	6226fcf4aeb11009641f8dadac77
+user18	add status comments	Apr 22 2010  8:31AM	6226fcf4aeb11009641f8dadac77
+user18	add photo comment	Apr 22 2010  8:32AM	6226fcf4aeb11009641f8dadac77
+user18	add photo comment	Apr 22 2010  8:34AM	6226fcf4aeb11009641f8dadac77
+user18	upload image	Apr 22 2010  8:38AM	6226fcf4aeb11009641f8dadac77

@@ -1,0 +1,3 @@
+User	Action	Time	SessionID
+user11	log in as legal user	Apr 26 2010  9:37AM	afb2ad2503f89033ae427d3d34d4
+user11	add status	Apr 26 2010  9:39AM	afb2ad2503f89033ae427d3d34d4

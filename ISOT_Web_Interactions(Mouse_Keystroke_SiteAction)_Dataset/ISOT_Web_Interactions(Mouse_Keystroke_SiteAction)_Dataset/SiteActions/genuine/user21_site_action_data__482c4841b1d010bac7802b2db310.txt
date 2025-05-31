@@ -1,0 +1,9 @@
+User	Action	Time	SessionID
+user21	log in as legal user	Apr 18 2010 10:20PM	482c4841b1d010bac7802b2db310
+user21	add status	Apr 18 2010 10:20PM	482c4841b1d010bac7802b2db310
+user21	upload image	Apr 18 2010 10:21PM	482c4841b1d010bac7802b2db310
+user21	add photo comment	Apr 18 2010 10:21PM	482c4841b1d010bac7802b2db310
+user21	upload image	Apr 18 2010 10:24PM	482c4841b1d010bac7802b2db310
+user21	add photo comment	Apr 18 2010 10:24PM	482c4841b1d010bac7802b2db310
+user21	add photo comment	Apr 18 2010 10:25PM	482c4841b1d010bac7802b2db310
+user21	upload image	Apr 18 2010 11:01PM	482c4841b1d010bac7802b2db310

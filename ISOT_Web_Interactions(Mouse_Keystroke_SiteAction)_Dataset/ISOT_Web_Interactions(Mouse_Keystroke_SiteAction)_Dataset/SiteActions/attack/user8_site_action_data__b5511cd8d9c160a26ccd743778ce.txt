@@ -1,0 +1,5 @@
+User	Action	Time	SessionID
+user8	log in as illegal user	Apr 26 2010 11:16AM	b5511cd8d9c160a26ccd743778ce
+user8	add status	Apr 26 2010 11:18AM	b5511cd8d9c160a26ccd743778ce
+user8	add photo comment	Apr 26 2010 11:21AM	b5511cd8d9c160a26ccd743778ce
+user8	upload image	Apr 26 2010 11:22AM	b5511cd8d9c160a26ccd743778ce

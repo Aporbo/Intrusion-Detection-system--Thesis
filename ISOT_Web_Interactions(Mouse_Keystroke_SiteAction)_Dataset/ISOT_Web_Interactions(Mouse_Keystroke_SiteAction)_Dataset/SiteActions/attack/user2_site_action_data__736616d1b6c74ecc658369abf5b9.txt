@@ -1,0 +1,2 @@
+User	Action	Time	SessionID
+user2	log in as illegal user	Apr 22 2010  1:30PM	736616d1b6c74ecc658369abf5b9

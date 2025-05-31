@@ -1,0 +1,8 @@
+User	Action	Time	SessionID
+user5	log in as legal user	Apr 22 2010  9:05AM	643232adeec8601f36e8e607f99b
+user5	say agree on the agreement	Apr 22 2010  9:05AM	643232adeec8601f36e8e607f99b
+user5	add status	Apr 22 2010  9:06AM	643232adeec8601f36e8e607f99b
+user5	add status	Apr 22 2010  9:06AM	643232adeec8601f36e8e607f99b
+user5	upload image	Apr 22 2010  9:08AM	643232adeec8601f36e8e607f99b
+user5	upload image	Apr 22 2010  9:08AM	643232adeec8601f36e8e607f99b
+user5	add status comments	Apr 22 2010  9:10AM	643232adeec8601f36e8e607f99b

@@ -1,0 +1,7 @@
+User	Action	Time	SessionID
+user18	log in as legal user	Apr 20 2010  3:12PM	d47064415d10580f1949d72c269f
+user18	upload image	Apr 20 2010  3:17PM	d47064415d10580f1949d72c269f
+user18	add photo comment	Apr 20 2010  3:17PM	d47064415d10580f1949d72c269f
+user18	add status comments	Apr 20 2010  3:20PM	d47064415d10580f1949d72c269f
+user18	add photo comment	Apr 20 2010  3:21PM	d47064415d10580f1949d72c269f
+user18	add status comments	Apr 20 2010  3:22PM	d47064415d10580f1949d72c269f

@@ -1,0 +1,3 @@
+User	Action	Time	SessionID
+user18	log in as legal user	Apr 20 2010  3:00PM	d3bdbd115d8e985fae9c614b0dd3
+user18	say agree on the agreement	Apr 20 2010  3:00PM	d3bdbd115d8e985fae9c614b0dd3

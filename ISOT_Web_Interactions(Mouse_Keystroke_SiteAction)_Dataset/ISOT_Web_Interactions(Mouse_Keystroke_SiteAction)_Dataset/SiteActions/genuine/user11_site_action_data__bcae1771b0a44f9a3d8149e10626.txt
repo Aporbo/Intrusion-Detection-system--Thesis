@@ -1,0 +1,6 @@
+User	Action	Time	SessionID
+user11	log in as legal user failed	Apr 20 2010  8:17AM	bcae1771b0a44f9a3d8149e10626
+user11	log in as legal user	Apr 20 2010  8:18AM	bcae1771b0a44f9a3d8149e10626
+user11	add status	Apr 20 2010  8:19AM	bcae1771b0a44f9a3d8149e10626
+user11	add status	Apr 20 2010  8:19AM	bcae1771b0a44f9a3d8149e10626
+user11	add photo comment	Apr 20 2010  8:22AM	bcae1771b0a44f9a3d8149e10626

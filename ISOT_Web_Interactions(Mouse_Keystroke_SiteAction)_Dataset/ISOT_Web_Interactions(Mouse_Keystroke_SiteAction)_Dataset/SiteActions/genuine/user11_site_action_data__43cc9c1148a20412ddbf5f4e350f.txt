@@ -1,0 +1,7 @@
+User	Action	Time	SessionID
+user11	log in as legal user	Apr  6 2010 10:52AM	43cc9c1148a20412ddbf5f4e350f
+user11	say agree on the agreement	Apr  6 2010 10:52AM	43cc9c1148a20412ddbf5f4e350f
+user11	add status	Apr  6 2010 10:54AM	43cc9c1148a20412ddbf5f4e350f
+user11	add photo comment	Apr  6 2010 10:56AM	43cc9c1148a20412ddbf5f4e350f
+user11	upload image	Apr  6 2010 10:57AM	43cc9c1148a20412ddbf5f4e350f
+user11	add photo comment	Apr  6 2010 10:57AM	43cc9c1148a20412ddbf5f4e350f

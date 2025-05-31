@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user11	log in as legal user	May  2 2010  6:38PM	bd04fad10786190cf11234764e48
+user11	add status	May  2 2010  6:39PM	bd04fad10786190cf11234764e48
+user11	add status comments	May  2 2010  6:40PM	bd04fad10786190cf11234764e48

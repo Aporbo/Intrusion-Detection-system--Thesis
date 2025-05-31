@@ -1,0 +1,6 @@
+User	Action	Time	SessionID
+user4	log in as legal user	May  3 2010  8:20AM	ec0d6c01acf93cc2c3adc4eab7eb
+user4	add status	May  3 2010  8:21AM	ec0d6c01acf93cc2c3adc4eab7eb
+user4	add status	May  3 2010  8:22AM	ec0d6c01acf93cc2c3adc4eab7eb
+user4	add status comments	May  3 2010  8:23AM	ec0d6c01acf93cc2c3adc4eab7eb
+user4	add status comments	May  3 2010  8:24AM	ec0d6c01acf93cc2c3adc4eab7eb

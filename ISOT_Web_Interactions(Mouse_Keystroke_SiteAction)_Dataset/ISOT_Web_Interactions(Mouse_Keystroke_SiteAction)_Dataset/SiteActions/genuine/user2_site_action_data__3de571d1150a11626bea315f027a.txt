@@ -1,0 +1,9 @@
+User	Action	Time	SessionID
+user2	log in as legal user	Apr 18 2010  7:21PM	3de571d1150a11626bea315f027a
+user2	add status	Apr 18 2010  7:21PM	3de571d1150a11626bea315f027a
+user2	add status	Apr 18 2010  7:21PM	3de571d1150a11626bea315f027a
+user2	add photo comment	Apr 18 2010  7:28PM	3de571d1150a11626bea315f027a
+user2	upload image	Apr 18 2010  7:30PM	3de571d1150a11626bea315f027a
+user2	add photo comment	Apr 18 2010  7:30PM	3de571d1150a11626bea315f027a
+user2	add status comments	Apr 18 2010  8:12PM	3de571d1150a11626bea315f027a
+user2	add status comments	Apr 18 2010  8:12PM	3de571d1150a11626bea315f027a

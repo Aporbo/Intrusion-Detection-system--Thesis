@@ -1,0 +1,9 @@
+User	Action	Time	SessionID
+user7	log in as legal user failed	Apr  8 2010  9:59PM	0f012271e7896548eb0878658757
+user7	log in as legal user	Apr  8 2010 10:00PM	0f012271e7896548eb0878658757
+user7	add status	Apr  8 2010 10:00PM	0f012271e7896548eb0878658757
+user7	add photo comment	Apr  8 2010 10:01PM	0f012271e7896548eb0878658757
+user7	upload image	Apr  8 2010 10:05PM	0f012271e7896548eb0878658757
+user7	add photo comment	Apr  8 2010 10:07PM	0f012271e7896548eb0878658757
+user7	add photo comment	Apr  8 2010 10:13PM	0f012271e7896548eb0878658757
+user7	add photo comment	Apr  8 2010 10:15PM	0f012271e7896548eb0878658757

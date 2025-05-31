@@ -1,0 +1,5 @@
+User	Action	Time	SessionID
+user3	log in as illegal user	Apr 26 2010  4:37PM	c7a9d97220f9e0320a41c90dd195
+user3	add status	Apr 26 2010  4:37PM	c7a9d97220f9e0320a41c90dd195
+user3	add status	Apr 26 2010  4:38PM	c7a9d97220f9e0320a41c90dd195
+user3	add status comments	Apr 26 2010  4:42PM	c7a9d97220f9e0320a41c90dd195

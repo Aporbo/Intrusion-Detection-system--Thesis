@@ -1,0 +1,6 @@
+User	Action	Time	SessionID
+user20	log in as illegal user	Apr 26 2010 11:34AM	b65cd6b75645406f0a9ec1a68b4e
+user20	add status	Apr 26 2010 11:38AM	b65cd6b75645406f0a9ec1a68b4e
+user20	add photo comment	Apr 26 2010 11:39AM	b65cd6b75645406f0a9ec1a68b4e
+user20	add photo comment	Apr 26 2010 11:41AM	b65cd6b75645406f0a9ec1a68b4e
+user20	add photo comment	Apr 26 2010 11:43AM	b65cd6b75645406f0a9ec1a68b4e

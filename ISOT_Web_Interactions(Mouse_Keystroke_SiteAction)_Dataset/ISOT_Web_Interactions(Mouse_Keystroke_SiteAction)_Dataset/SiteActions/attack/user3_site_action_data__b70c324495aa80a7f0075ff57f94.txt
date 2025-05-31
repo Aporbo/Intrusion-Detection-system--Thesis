@@ -1,0 +1,6 @@
+User	Action	Time	SessionID
+user3	log in as illegal user failed	Apr 26 2010 11:46AM	b70c324495aa80a7f0075ff57f94
+user3	log in as illegal user	Apr 26 2010 11:46AM	b70c324495aa80a7f0075ff57f94
+user3	add status	Apr 26 2010 11:46AM	b70c324495aa80a7f0075ff57f94
+user3	add status	Apr 26 2010 11:47AM	b70c324495aa80a7f0075ff57f94
+user3	add photo comment	Apr 26 2010 11:51AM	b70c324495aa80a7f0075ff57f94

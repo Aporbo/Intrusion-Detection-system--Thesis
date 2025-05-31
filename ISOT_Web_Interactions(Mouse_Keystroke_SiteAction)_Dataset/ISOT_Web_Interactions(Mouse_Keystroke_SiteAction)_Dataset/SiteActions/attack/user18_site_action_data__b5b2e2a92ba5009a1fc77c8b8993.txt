@@ -1,0 +1,5 @@
+User	Action	Time	SessionID
+user18	log in as illegal user	Apr 26 2010 11:22AM	b5b2e2a92ba5009a1fc77c8b8993
+user18	add status	Apr 26 2010 11:23AM	b5b2e2a92ba5009a1fc77c8b8993
+user18	add photo comment	Apr 26 2010 11:24AM	b5b2e2a92ba5009a1fc77c8b8993
+user18	add photo comment	Apr 26 2010 11:25AM	b5b2e2a92ba5009a1fc77c8b8993

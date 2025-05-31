@@ -1,0 +1,7 @@
+User	Action	Time	SessionID
+user23	log in as legal user	Apr  5 2010  6:57PM	0d3a44114b33842a921f3dd40a67
+user23	say agree on the agreement	Apr  5 2010  6:58PM	0d3a44114b33842a921f3dd40a67
+user23	say agree on the agreement	Apr  5 2010  7:01PM	0d3a44114b33842a921f3dd40a67
+user23	say agree on the agreement	Apr  5 2010  7:02PM	0d3a44114b33842a921f3dd40a67
+user23	add status	Apr  5 2010  7:04PM	0d3a44114b33842a921f3dd40a67
+user23	say agree on the agreement	Apr  5 2010  7:07PM	0d3a44114b33842a921f3dd40a67

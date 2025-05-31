@@ -1,0 +1,6 @@
+User	Action	Time	SessionID
+user3	log in as legal user failed	Apr 11 2010  5:19AM	cceefe014e391e3276d127a1b61d
+user3	log in as legal user	Apr 11 2010  5:19AM	cceefe014e391e3276d127a1b61d
+user3	add status	Apr 11 2010  5:19AM	cceefe014e391e3276d127a1b61d
+user3	add status	Apr 11 2010  5:22AM	cceefe014e391e3276d127a1b61d
+user3	add photo comment	Apr 11 2010  5:25AM	cceefe014e391e3276d127a1b61d

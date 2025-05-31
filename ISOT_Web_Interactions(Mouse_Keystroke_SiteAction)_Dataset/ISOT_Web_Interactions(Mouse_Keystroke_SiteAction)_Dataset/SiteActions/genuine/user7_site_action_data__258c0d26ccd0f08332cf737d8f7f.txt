@@ -1,0 +1,6 @@
+User	Action	Time	SessionID
+user7	log in as legal user	Apr 21 2010  3:12PM	258c0d26ccd0f08332cf737d8f7f
+user7	add status comments	Apr 21 2010  3:13PM	258c0d26ccd0f08332cf737d8f7f
+user7	add photo comment	Apr 21 2010  3:13PM	258c0d26ccd0f08332cf737d8f7f
+user7	add photo comment	Apr 21 2010  3:14PM	258c0d26ccd0f08332cf737d8f7f
+user7	add photo comment	Apr 21 2010  3:18PM	258c0d26ccd0f08332cf737d8f7f

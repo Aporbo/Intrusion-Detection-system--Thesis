@@ -1,0 +1,6 @@
+User	Action	Time	SessionID
+user5	log in as legal user	Apr 28 2010 11:55AM	5c523b814ac96da32379c03bf162
+user5	add photo comment	Apr 28 2010 11:55AM	5c523b814ac96da32379c03bf162
+user5	add photo comment	Apr 28 2010 11:56AM	5c523b814ac96da32379c03bf162
+user5	add status comments	Apr 28 2010 11:56AM	5c523b814ac96da32379c03bf162
+user5	add status comments	Apr 28 2010 11:57AM	5c523b814ac96da32379c03bf162

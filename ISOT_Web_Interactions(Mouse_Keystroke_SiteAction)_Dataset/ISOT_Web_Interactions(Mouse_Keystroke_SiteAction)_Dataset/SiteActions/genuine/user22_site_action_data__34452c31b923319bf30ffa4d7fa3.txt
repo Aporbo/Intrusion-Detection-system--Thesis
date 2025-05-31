@@ -1,0 +1,8 @@
+User	Action	Time	SessionID
+user22	log in as legal user	Apr 15 2010  1:59PM	34452c31b923319bf30ffa4d7fa3
+user22	add status	Apr 15 2010  1:59PM	34452c31b923319bf30ffa4d7fa3
+user22	upload image	Apr 15 2010  2:10PM	34452c31b923319bf30ffa4d7fa3
+user22	add photo comment	Apr 15 2010  2:11PM	34452c31b923319bf30ffa4d7fa3
+user22	add photo comment	Apr 15 2010  2:11PM	34452c31b923319bf30ffa4d7fa3
+user22	add status comments	Apr 15 2010  2:13PM	34452c31b923319bf30ffa4d7fa3
+user22	add status comments	Apr 15 2010  2:15PM	34452c31b923319bf30ffa4d7fa3

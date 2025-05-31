@@ -1,0 +1,9 @@
+User	Action	Time	SessionID
+user22	log in as legal user	Apr  8 2010  6:10PM	01aff531a536d3495c2a9b511b1d
+user22	say agree on the agreement	Apr  8 2010  6:10PM	01aff531a536d3495c2a9b511b1d
+user22	say agree on the agreement	Apr  8 2010  6:11PM	01aff531a536d3495c2a9b511b1d
+user22	add status	Apr  8 2010  6:11PM	01aff531a536d3495c2a9b511b1d
+user22	add status	Apr  8 2010  6:17PM	01aff531a536d3495c2a9b511b1d
+user22	add photo comment	Apr  8 2010  6:21PM	01aff531a536d3495c2a9b511b1d
+user22	upload image	Apr  8 2010  6:24PM	01aff531a536d3495c2a9b511b1d
+user22	add photo comment	Apr  8 2010  6:24PM	01aff531a536d3495c2a9b511b1d

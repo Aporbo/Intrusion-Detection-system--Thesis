@@ -1,0 +1,10 @@
+User	Action	Time	SessionID
+user2	log in as legal user	Apr 27 2010  7:24AM	fa71fc0181f5984d41810e50c227
+user2	add status	Apr 27 2010  7:24AM	fa71fc0181f5984d41810e50c227
+user2	add photo comment	Apr 27 2010  7:25AM	fa71fc0181f5984d41810e50c227
+user2	add photo comment	Apr 27 2010  7:25AM	fa71fc0181f5984d41810e50c227
+user2	upload image	Apr 27 2010  7:28AM	fa71fc0181f5984d41810e50c227
+user2	add status comments	Apr 27 2010  7:30AM	fa71fc0181f5984d41810e50c227
+user2	add photo comment	Apr 27 2010  7:32AM	fa71fc0181f5984d41810e50c227
+user2	add photo comment	Apr 27 2010  7:33AM	fa71fc0181f5984d41810e50c227
+user2	add status	Apr 27 2010  7:37AM	fa71fc0181f5984d41810e50c227

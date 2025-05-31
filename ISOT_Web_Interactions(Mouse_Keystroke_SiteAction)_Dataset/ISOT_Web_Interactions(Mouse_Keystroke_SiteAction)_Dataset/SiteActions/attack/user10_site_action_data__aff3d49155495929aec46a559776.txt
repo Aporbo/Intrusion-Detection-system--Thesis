@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user10	log in as illegal user	Apr 26 2010  9:42AM	aff3d49155495929aec46a559776
+user10	add status	Apr 26 2010  9:44AM	aff3d49155495929aec46a559776
+user10	add status comments	Apr 26 2010  9:44AM	aff3d49155495929aec46a559776

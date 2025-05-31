@@ -1,0 +1,11 @@
+User	Action	Time	SessionID
+user2	log in as legal user	Apr 15 2010  9:02PM	4c7a4fc14ae9ad713cb204d9bed9
+user2	say agree on the agreement	Apr 15 2010  9:04PM	4c7a4fc14ae9ad713cb204d9bed9
+user2	add status	Apr 15 2010  9:04PM	4c7a4fc14ae9ad713cb204d9bed9
+user2	upload image	Apr 15 2010  9:04PM	4c7a4fc14ae9ad713cb204d9bed9
+user2	add photo comment	Apr 15 2010  9:05PM	4c7a4fc14ae9ad713cb204d9bed9
+user2	add photo comment	Apr 15 2010  9:06PM	4c7a4fc14ae9ad713cb204d9bed9
+user2	add status comments	Apr 15 2010  9:10PM	4c7a4fc14ae9ad713cb204d9bed9
+user2	add status comments	Apr 15 2010  9:10PM	4c7a4fc14ae9ad713cb204d9bed9
+user2	add status	Apr 15 2010  9:12PM	4c7a4fc14ae9ad713cb204d9bed9
+user2	add status comments	Apr 15 2010  9:23PM	4c7a4fc14ae9ad713cb204d9bed9

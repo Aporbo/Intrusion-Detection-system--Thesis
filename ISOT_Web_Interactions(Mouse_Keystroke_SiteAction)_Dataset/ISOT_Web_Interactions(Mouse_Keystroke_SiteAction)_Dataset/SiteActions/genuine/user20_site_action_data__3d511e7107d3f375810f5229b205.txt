@@ -1,0 +1,6 @@
+User	Action	Time	SessionID
+user20	log in as legal user	Apr 12 2010  2:11PM	3d511e7107d3f375810f5229b205
+user20	say agree on the agreement	Apr 12 2010  2:12PM	3d511e7107d3f375810f5229b205
+user20	add status	Apr 12 2010  2:12PM	3d511e7107d3f375810f5229b205
+user20	upload image	Apr 12 2010  2:13PM	3d511e7107d3f375810f5229b205
+user20	add photo comment	Apr 12 2010  2:19PM	3d511e7107d3f375810f5229b205

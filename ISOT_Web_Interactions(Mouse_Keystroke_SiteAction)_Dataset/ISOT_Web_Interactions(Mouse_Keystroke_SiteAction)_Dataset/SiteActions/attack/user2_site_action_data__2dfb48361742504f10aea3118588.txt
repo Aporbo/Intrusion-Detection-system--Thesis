@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user2	log in as illegal user failed	May  4 2010  3:32AM	2dfb48361742504f10aea3118588
+user2	log in as illegal user	May  4 2010  3:32AM	2dfb48361742504f10aea3118588
+user2	upload image	May  4 2010  3:32AM	2dfb48361742504f10aea3118588

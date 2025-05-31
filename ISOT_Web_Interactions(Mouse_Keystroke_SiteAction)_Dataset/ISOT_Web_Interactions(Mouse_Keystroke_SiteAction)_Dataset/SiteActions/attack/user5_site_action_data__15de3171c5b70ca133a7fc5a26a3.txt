@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user5	log in as illegal user	Apr 27 2010  3:23PM	15de3171c5b70ca133a7fc5a26a3
+user5	add status	Apr 27 2010  3:31PM	15de3171c5b70ca133a7fc5a26a3
+user5	add photo comment	Apr 27 2010  3:32PM	15de3171c5b70ca133a7fc5a26a3

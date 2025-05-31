@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user10	log in as legal user	Apr  6 2010 11:15PM	6e8782914eadb0121f76bb59afe1
+user10	upload image	Apr  6 2010 11:18PM	6e8782914eadb0121f76bb59afe1
+user10	add photo comment	Apr  6 2010 11:19PM	6e8782914eadb0121f76bb59afe1

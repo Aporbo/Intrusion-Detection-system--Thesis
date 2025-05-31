@@ -1,0 +1,7 @@
+User	Action	Time	SessionID
+user20	log in as illegal user	Apr 28 2010 11:22AM	5a7d03c86f51903e1060e144994b
+user20	add photo comment	Apr 28 2010 11:23AM	5a7d03c86f51903e1060e144994b
+user20	add photo comment	Apr 28 2010 11:24AM	5a7d03c86f51903e1060e144994b
+user20	add photo comment	Apr 28 2010 11:25AM	5a7d03c86f51903e1060e144994b
+user20	add photo comment	Apr 28 2010 11:26AM	5a7d03c86f51903e1060e144994b
+user20	add photo comment	Apr 28 2010 11:29AM	5a7d03c86f51903e1060e144994b

@@ -1,0 +1,9 @@
+User	Action	Time	SessionID
+user10	log in as legal user	Apr 12 2010 11:15AM	33ba07a12e1f9df3f9775d9e1668
+user10	add status	Apr 12 2010 11:16AM	33ba07a12e1f9df3f9775d9e1668
+user10	upload image	Apr 12 2010 11:17AM	33ba07a12e1f9df3f9775d9e1668
+user10	add status comments	Apr 12 2010 11:18AM	33ba07a12e1f9df3f9775d9e1668
+user10	add photo comment	Apr 12 2010 11:19AM	33ba07a12e1f9df3f9775d9e1668
+user10	add photo comment	Apr 12 2010 11:20AM	33ba07a12e1f9df3f9775d9e1668
+user10	add status comments	Apr 12 2010 11:21AM	33ba07a12e1f9df3f9775d9e1668
+user10	add status comments	Apr 12 2010 11:23AM	33ba07a12e1f9df3f9775d9e1668

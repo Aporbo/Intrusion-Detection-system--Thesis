@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user10	log in as legal user failed	Apr 11 2010  9:15PM	03adf971a21cc5d7fd33829b25b3
+user10	log in as legal user	Apr 11 2010  9:16PM	03adf971a21cc5d7fd33829b25b3
+user10	add photo comment	Apr 11 2010  9:17PM	03adf971a21cc5d7fd33829b25b3

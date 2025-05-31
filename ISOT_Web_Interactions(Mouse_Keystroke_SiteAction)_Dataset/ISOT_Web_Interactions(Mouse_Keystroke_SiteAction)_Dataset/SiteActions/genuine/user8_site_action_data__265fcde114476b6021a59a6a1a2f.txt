@@ -1,0 +1,6 @@
+User	Action	Time	SessionID
+user8	log in as legal user	Apr 21 2010  3:03PM	265fcde114476b6021a59a6a1a2f
+user8	upload image	Apr 21 2010  3:04PM	265fcde114476b6021a59a6a1a2f
+user8	add status comments	Apr 21 2010  3:06PM	265fcde114476b6021a59a6a1a2f
+user8	upload image	Apr 21 2010  3:10PM	265fcde114476b6021a59a6a1a2f
+user8	add photo comment	Apr 21 2010  3:15PM	265fcde114476b6021a59a6a1a2f

@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user20	log in as legal user	Apr 29 2010  2:19PM	b70036d116cef3d41a82b95304e4
+user20	add status	Apr 29 2010  2:19PM	b70036d116cef3d41a82b95304e4
+user20	add photo comment	Apr 29 2010  2:21PM	b70036d116cef3d41a82b95304e4

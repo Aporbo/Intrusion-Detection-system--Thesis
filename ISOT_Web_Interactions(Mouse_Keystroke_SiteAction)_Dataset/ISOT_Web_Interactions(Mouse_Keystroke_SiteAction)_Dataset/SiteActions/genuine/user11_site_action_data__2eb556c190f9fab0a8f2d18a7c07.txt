@@ -1,0 +1,5 @@
+User	Action	Time	SessionID
+user11	log in as legal user	Apr 12 2010  9:48AM	2eb556c190f9fab0a8f2d18a7c07
+user11	add status	Apr 12 2010  9:50AM	2eb556c190f9fab0a8f2d18a7c07
+user11	add photo comment	Apr 12 2010  9:51AM	2eb556c190f9fab0a8f2d18a7c07
+user11	add photo comment	Apr 12 2010  9:54AM	2eb556c190f9fab0a8f2d18a7c07

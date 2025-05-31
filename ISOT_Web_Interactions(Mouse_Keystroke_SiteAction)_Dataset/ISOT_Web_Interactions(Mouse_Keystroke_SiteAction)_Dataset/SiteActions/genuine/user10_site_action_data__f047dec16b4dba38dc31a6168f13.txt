@@ -1,0 +1,5 @@
+User	Action	Time	SessionID
+user10	log in as legal user	May 12 2010  5:16PM	f047dec16b4dba38dc31a6168f13
+user10	add status comments	May 12 2010  5:16PM	f047dec16b4dba38dc31a6168f13
+user10	add status comments	May 12 2010  5:17PM	f047dec16b4dba38dc31a6168f13
+user10	add status	May 12 2010  5:18PM	f047dec16b4dba38dc31a6168f13

@@ -1,0 +1,5 @@
+User	Action	Time	SessionID
+user7	log in as legal user	Apr 10 2010 12:12AM	6904b4914a91f1946e470f136825
+user7	add status	Apr 10 2010 12:13AM	6904b4914a91f1946e470f136825
+user7	add photo comment	Apr 10 2010 12:15AM	6904b4914a91f1946e470f136825
+user7	add photo comment	Apr 10 2010 12:17AM	6904b4914a91f1946e470f136825

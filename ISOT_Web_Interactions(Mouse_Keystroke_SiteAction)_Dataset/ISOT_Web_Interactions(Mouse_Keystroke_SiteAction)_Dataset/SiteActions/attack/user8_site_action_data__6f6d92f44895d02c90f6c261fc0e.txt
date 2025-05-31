@@ -1,0 +1,3 @@
+User	Action	Time	SessionID
+user8	log in as illegal user	Apr 22 2010 12:20PM	6f6d92f44895d02c90f6c261fc0e
+user8	add status	Apr 22 2010 12:21PM	6f6d92f44895d02c90f6c261fc0e

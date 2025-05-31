@@ -1,0 +1,3 @@
+User	Action	Time	SessionID
+user2	log in as illegal user	Apr 26 2010  4:44PM	c802d4320a2e807d574ac45f2855
+user2	add status	Apr 26 2010  4:45PM	c802d4320a2e807d574ac45f2855

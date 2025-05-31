@@ -1,0 +1,3 @@
+User	Action	Time	SessionID
+user10	log in as legal user	Apr  7 2010  9:07AM	906eace9c23a40f6fed6a672d204
+user10	upload image	Apr  7 2010  9:08AM	906eace9c23a40f6fed6a672d204

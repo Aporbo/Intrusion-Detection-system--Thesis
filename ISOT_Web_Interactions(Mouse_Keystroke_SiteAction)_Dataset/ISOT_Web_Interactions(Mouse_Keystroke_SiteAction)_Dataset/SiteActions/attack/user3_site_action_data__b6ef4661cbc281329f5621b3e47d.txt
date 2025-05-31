@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user3	log in as illegal user	Apr 29 2010  2:18PM	b6ef4661cbc281329f5621b3e47d
+user3	add status	Apr 29 2010  2:18PM	b6ef4661cbc281329f5621b3e47d
+user3	add photo comment	Apr 29 2010  2:19PM	b6ef4661cbc281329f5621b3e47d

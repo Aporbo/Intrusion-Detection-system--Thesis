@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user11	log in as legal user	Apr 21 2010  9:20PM	3bed4861b556a980b8994d82cc81
+user11	add status	Apr 21 2010  9:22PM	3bed4861b556a980b8994d82cc81
+user11	add photo comment	Apr 21 2010  9:23PM	3bed4861b556a980b8994d82cc81

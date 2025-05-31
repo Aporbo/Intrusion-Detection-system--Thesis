@@ -1,0 +1,16 @@
+User	Action	Time	SessionID
+user21	log in as legal user	Apr 18 2010 11:07PM	4ad80181de73f8eeb4d3eed425e1
+user21	upload image	Apr 18 2010 11:07PM	4ad80181de73f8eeb4d3eed425e1
+user21	add photo comment	Apr 18 2010 11:07PM	4ad80181de73f8eeb4d3eed425e1
+user21	upload image	Apr 18 2010 11:08PM	4ad80181de73f8eeb4d3eed425e1
+user21	add photo comment	Apr 18 2010 11:08PM	4ad80181de73f8eeb4d3eed425e1
+user21	upload image	Apr 18 2010 11:08PM	4ad80181de73f8eeb4d3eed425e1
+user21	add photo comment	Apr 18 2010 11:09PM	4ad80181de73f8eeb4d3eed425e1
+user21	upload image	Apr 18 2010 11:09PM	4ad80181de73f8eeb4d3eed425e1
+user21	add photo comment	Apr 18 2010 11:10PM	4ad80181de73f8eeb4d3eed425e1
+user21	add status comments	Apr 18 2010 11:13PM	4ad80181de73f8eeb4d3eed425e1
+user21	add status comments	Apr 18 2010 11:14PM	4ad80181de73f8eeb4d3eed425e1
+user21	add status comments	Apr 18 2010 11:14PM	4ad80181de73f8eeb4d3eed425e1
+user21	add photo comment	Apr 18 2010 11:15PM	4ad80181de73f8eeb4d3eed425e1
+user21	add status comments	Apr 18 2010 11:17PM	4ad80181de73f8eeb4d3eed425e1
+user21	add status	Apr 18 2010 11:18PM	4ad80181de73f8eeb4d3eed425e1

@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user13	log in as legal user	Apr  7 2010 11:33PM	c1f34b46b8414080d2011ebd299e
+user13	upload image	Apr  7 2010 11:37PM	c1f34b46b8414080d2011ebd299e
+user13	add status	Apr  7 2010 11:37PM	c1f34b46b8414080d2011ebd299e

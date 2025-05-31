@@ -1,0 +1,13 @@
+User	Action	Time	SessionID
+user7	log in as legal user	Apr 21 2010 10:19PM	3f4ff27126efc2a274e324a9566f
+user7	add status	Apr 21 2010 10:23PM	3f4ff27126efc2a274e324a9566f
+user7	upload image	Apr 21 2010 10:31PM	3f4ff27126efc2a274e324a9566f
+user7	add status comments	Apr 21 2010 10:33PM	3f4ff27126efc2a274e324a9566f
+user7	add photo comment	Apr 21 2010 10:34PM	3f4ff27126efc2a274e324a9566f
+user7	add photo comment	Apr 21 2010 10:35PM	3f4ff27126efc2a274e324a9566f
+user7	add photo comment	Apr 21 2010 10:37PM	3f4ff27126efc2a274e324a9566f
+user7	add photo comment	Apr 21 2010 10:41PM	3f4ff27126efc2a274e324a9566f
+user7	add photo comment	Apr 21 2010 10:42PM	3f4ff27126efc2a274e324a9566f
+user7	add photo comment	Apr 21 2010 10:44PM	3f4ff27126efc2a274e324a9566f
+user7	add photo comment	Apr 21 2010 10:46PM	3f4ff27126efc2a274e324a9566f
+user7	add photo comment	Apr 21 2010 10:49PM	3f4ff27126efc2a274e324a9566f

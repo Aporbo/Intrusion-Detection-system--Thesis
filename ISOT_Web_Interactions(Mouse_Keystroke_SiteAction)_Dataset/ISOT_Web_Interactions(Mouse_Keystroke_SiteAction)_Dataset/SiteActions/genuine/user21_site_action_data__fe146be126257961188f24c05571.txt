@@ -1,0 +1,4 @@
+User	Action	Time	SessionID
+user21	log in as legal user	Apr  5 2010  2:31PM	fe146be126257961188f24c05571
+user21	say agree on the agreement	Apr  5 2010  2:33PM	fe146be126257961188f24c05571
+user21	add status	Apr  5 2010  2:34PM	fe146be126257961188f24c05571

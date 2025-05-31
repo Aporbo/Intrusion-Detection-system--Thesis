@@ -1,0 +1,2 @@
+User	Action	Time	SessionID
+user5	log in as legal user	Apr 22 2010 12:35PM	6f85fa712edbc5aad9d6db954eab

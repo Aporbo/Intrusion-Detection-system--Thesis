@@ -1,0 +1,5 @@
+User	Action	Time	SessionID
+user10	log in as legal user	Apr 12 2010 11:24AM	3436d864ce02b018be897a3d5926
+user10	add status comments	Apr 12 2010 11:24AM	3436d864ce02b018be897a3d5926
+user10	add status comments	Apr 12 2010 11:24AM	3436d864ce02b018be897a3d5926
+user10	add photo comment	Apr 12 2010 11:25AM	3436d864ce02b018be897a3d5926

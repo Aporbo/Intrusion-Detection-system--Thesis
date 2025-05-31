@@ -1,0 +1,5 @@
+User	Action	Time	SessionID
+user20	log in as legal user	Apr 20 2010 11:17AM	c70451c1ec708e0d17568739098d
+user20	add status	Apr 20 2010 11:17AM	c70451c1ec708e0d17568739098d
+user20	upload image	Apr 20 2010 11:18AM	c70451c1ec708e0d17568739098d
+user20	add photo comment	Apr 20 2010 11:19AM	c70451c1ec708e0d17568739098d
